@@ -33,8 +33,6 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 
 ![image](https://github.com/user-attachments/assets/54930460-2e76-4059-ad17-437875b70589)
 
-*Visual do projeto estilizado com Tailwind CSS.*
-
 ## 🎓 Curso
 
 Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da Alura, que aborda:
