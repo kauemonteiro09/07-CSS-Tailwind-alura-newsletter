@@ -28,7 +28,7 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 - **Comparação com Bootstrap**: Identificação das principais diferenças entre **Bootstrap** e **Tailwind CSS**, focando nas vantagens das classes utilitárias de Tailwind para maior flexibilidade.
 
 ## 📸 Screenshot do Projeto
-![image](https://github.com/user-attachments/assets/32fdc19a-3421-43d4-ad34-dbe889e6d2d3)
+[![image](https://github.com/user-attachments/assets/32fdc19a-3421-43d4-ad34-dbe889e6d2d3)](https://07-css-tailwind-alura-newsletter.vercel.app/)
 
 ## 📚 Curso
 Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da Alura, que aborda:
@@ -47,4 +47,4 @@ Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a
 Este projeto foi uma ótima oportunidade para aprender sobre o uso de **Tailwind CSS** e suas classes utilitárias, explorando customizações e animações que melhoraram significativamente a aparência e a usabilidade da página.
 
 ## 🌐 Deploy
-Você pode acessar o projeto publicado através deste link: [**Alura Newsletter**]()
+Você pode acessar o projeto publicado através deste link: [**Alura Newsletter**](https://07-css-tailwind-alura-newsletter.vercel.app/)
