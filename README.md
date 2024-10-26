@@ -1,40 +1,57 @@
-# 📄 Projeto: Página Estilizada com Tailwind CSS
+# 🌐 Projeto de Estilização com Tailwind CSS
 
-Este projeto foi desenvolvido como parte do curso [**Tailwind CSS: Estilizando a sua página com classes utilitárias**](https://www.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias) da Alura, proposto dentro da formação _A partir do zero: HTML e CSS para projetos web - Se desenvolva como um Dev em T em Front-end_. O curso abordou a utilização do Tailwind CSS para construir páginas com uma abordagem de classes utilitárias, permitindo uma personalização rápida e eficiente.
+Este repositório contém o projeto desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da **Alura**. Durante o curso, foram aplicados diversos conceitos de **Tailwind CSS** para construir uma página estilizada usando classes utilitárias e customizações avançadas.
 
-## 📚 Objetivos do Curso
+## 📚 Sobre o Projeto
 
-Durante o curso, os principais objetivos e aprendizados incluíram:
+O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, explorando suas classes utilitárias para um design rápido e eficiente. Aprendi a configurar e customizar o `tailwind.config` para ajustar o estilo de acordo com as necessidades específicas do projeto e implementei uma animação personalizada para a **Alura Newsletter**.
 
-- **Construção de um projeto com Tailwind CSS**
-- Identificação das diferenças entre o **Bootstrap** e o **Tailwind CSS**
-- Implementação de customizações no projeto utilizando o `tailwind.config`
-- Modificação do alinhamento e posicionamento dos elementos
-- Experiência com a estilização de elementos usando classes utilitárias
-- Produção de uma **animação do zero para a Alura Newsletter**
+### 🛠️ Funcionalidades e Tecnologias Utilizadas
+
+- **Tailwind CSS**: Estilização utilizando classes utilitárias, o que permite um desenvolvimento rápido e altamente customizável.
+- **Configuração Avançada**: Ajustes no `tailwind.config` para modificar cores, espaçamentos e outros estilos personalizados.
+- **Animação**: Criação de uma animação customizada do zero para um elemento da página.
+- **Alinhamento e Posicionamento**: Uso de classes para ajustar o layout de forma precisa e responsiva.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** e **CSS3**
-- **Tailwind CSS**
-- **VS Code** como editor de código
+- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) **Tailwind CSS**
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
 
-## 🖥️ Prévia do Projeto
+## 🎯 Conceitos Aplicados
 
-<div align="center">
-  <a href="">
-    <img src="https://github.com/user-attachments/assets/012d28a7-13c5-4ea3-8626-df857ce2e87c" />
-  </a>
-</div>
+Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos e funcionalidades do **Tailwind CSS**:
+
+- **Classes Utilitárias**: Estilização rápida de elementos diretamente no HTML, usando classes pré-definidas para controle de layout, cores, tipografia, etc.
+- **Customização com `tailwind.config`**: Ajuste de temas, cores, fontes e tamanhos de espaçamento personalizados para adequar o layout.
+- **Animação Customizada**: Criação de uma animação do zero para a **Alura Newsletter**.
+- **Alinhamento e Posicionamento**: Utilização de classes para manipular o layout, alinhamento e espaçamento dos elementos na página.
+- **Comparação com Bootstrap**: Identificação das principais diferenças entre **Bootstrap** e **Tailwind CSS**, focando nas vantagens das classes utilitárias de Tailwind para maior flexibilidade.
+
+## 📷 Screenshot do Projeto
+
+![Projeto com Tailwind CSS](./path-to-screenshot.png)  
+*Visual do projeto estilizado com Tailwind CSS.*
+
+## 🎓 Curso
+
+Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da Alura, que aborda:
+
+- Construção de um projeto real com **Tailwind CSS**.
+- Diferenças entre **Tailwind CSS** e **Bootstrap**.
+- Customização avançada com o arquivo `tailwind.config`.
+- Criação de animações do zero.
+- Estilização e controle preciso do layout com classes utilitárias.
 
 ## 📜 Certificado
 
+Você pode acessar o certificado de conclusão deste curso [**aqui**](https://www.alura.com.br/certificado/codigo-do-certificado).
 
+## 🏆 Conclusão
+
+Este projeto foi uma ótima oportunidade para aprender sobre o uso de **Tailwind CSS** e suas classes utilitárias, explorando customizações e animações que melhoraram significativamente a aparência e a usabilidade da página.
 
 ## 🚀 Deploy
 
-Você pode acessar o projeto publicado através deste link: [**Alura Newsletter**](https://seu-link-aqui.com)
-
----
-
-Desenvolvido com 💙 por [Kauê Monteiro](https://github.com/kauemonteiro09) durante o curso da Alura.
+Você pode acessar o projeto publicado através deste link: [**Página com Tailwind CSS**](https://seu-link-aqui.com)
