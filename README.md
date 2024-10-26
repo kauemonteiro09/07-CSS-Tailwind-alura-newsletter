@@ -5,21 +5,21 @@ Este repositório contém o projeto desenvolvido como parte do curso **"Tailwind
 [![image](https://github.com/user-attachments/assets/ce42e5dd-f5b7-4e4d-b9b6-be3e15860029)](https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias)
 
 
-## Sobre o Projeto
+## 📋 Sobre o Projeto
 O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, explorando suas classes utilitárias para um design rápido e eficiente. Aprendi a configurar e customizar o `tailwind.config` para ajustar o estilo de acordo com as necessidades específicas do projeto e implementei uma animação personalizada para a **Alura Newsletter**.
 
-### ️Funcionalidades e Tecnologias Utilizadas
+### 🛠️ Funcionalidades e Tecnologias Utilizadas
 - **Tailwind CSS**: Estilização utilizando classes utilitárias, o que permite um desenvolvimento rápido e altamente customizável.
 - **Configuração Avançada**: Ajustes no `tailwind.config` para modificar cores, espaçamentos e outros estilos personalizados.
 - **Animação**: Criação de uma animação customizada do zero para um elemento da página.
 - **Alinhamento e Posicionamento**: Uso de classes para ajustar o layout de forma precisa e responsiva.
 
-## ️Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="48" height="48"> **Tailwind CSS**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
 
-## Conceitos Aplicados
+## 🧩 Conceitos Aplicados
 Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos e funcionalidades do **Tailwind CSS**:
 - **Classes Utilitárias**: Estilização rápida de elementos diretamente no HTML, usando classes pré-definidas para controle de layout, cores, tipografia, etc.
 - **Customização com `tailwind.config`**: Ajuste de temas, cores, fontes e tamanhos de espaçamento personalizados para adequar o layout.
