@@ -15,7 +15,7 @@ O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) **Tailwind CSS**
+- ![Tailwind CSS](https://camo.githubusercontent.com/3ab4d21d11b469e0f815a2ae019d059e1a3adf5d1c5bdbf7a75e8192ac67e580/68747470733a2f2f69636f6e73382e636f6d2f706c61737469632d74616c65696e642d637373) **Tailwind CSS**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
 
@@ -31,7 +31,7 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 
 ## 📷 Screenshot do Projeto
 
-![Projeto com Tailwind CSS](./path-to-screenshot.png)  
+![image](https://github.com/user-attachments/assets/54930460-2e76-4059-ad17-437875b70589)
 *Visual do projeto estilizado com Tailwind CSS.*
 
 ## 🎓 Curso
@@ -54,4 +54,4 @@ Este projeto foi uma ótima oportunidade para aprender sobre o uso de **Tailwind
 
 ## 🚀 Deploy
 
-Você pode acessar o projeto publicado através deste link: [**Página com Tailwind CSS**](https://seu-link-aqui.com)
+Você pode acessar o projeto publicado através deste link: [**Alura Newsletter**]()
