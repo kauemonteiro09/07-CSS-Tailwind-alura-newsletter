@@ -32,6 +32,7 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 ## 📷 Screenshot do Projeto
 
 ![image](https://github.com/user-attachments/assets/54930460-2e76-4059-ad17-437875b70589)
+
 *Visual do projeto estilizado com Tailwind CSS.*
 
 ## 🎓 Curso
