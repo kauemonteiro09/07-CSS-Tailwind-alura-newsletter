@@ -2,6 +2,9 @@
 
 Este repositório contém o projeto desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da **Alura**. Durante o curso, foram aplicados diversos conceitos de **Tailwind CSS** para construir uma página estilizada usando classes utilitárias e customizações avançadas.
 
+[![image](https://github.com/user-attachments/assets/ce42e5dd-f5b7-4e4d-b9b6-be3e15860029)](https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias)
+
+
 ## Sobre o Projeto
 O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, explorando suas classes utilitárias para um design rápido e eficiente. Aprendi a configurar e customizar o `tailwind.config` para ajustar o estilo de acordo com as necessidades específicas do projeto e implementei uma animação personalizada para a **Alura Newsletter**.
 
@@ -26,7 +29,6 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 
 ## 📸 Screenshot do Projeto
 ![image](https://github.com/user-attachments/assets/32fdc19a-3421-43d4-ad34-dbe889e6d2d3)
-*Visual do projeto estilizado com Tailwind CSS.*
 
 ## 📚 Curso
 Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a sua página com classes utilitárias"** da Alura, que aborda:
@@ -37,6 +39,8 @@ Este projeto foi desenvolvido como parte do curso **"Tailwind CSS: Estilizando a
 - Estilização e controle preciso do layout com classes utilitárias.
 
 ## 🎓 Certificado
+
+[![image](https://github.com/user-attachments/assets/d9ae823c-ef10-40a8-bb92-d4917d7eb007)](https://cursos.alura.com.br/certificate/24e8494f-8274-4266-aca4-c647a4c6058f?lang=pt_BR)
 
 
 ## 🎉 Conclusão
