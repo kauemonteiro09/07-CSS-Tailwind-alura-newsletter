@@ -15,7 +15,7 @@ O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="24"/> **Tailwind CSS**
+- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) **Tailwind CSS**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
 
