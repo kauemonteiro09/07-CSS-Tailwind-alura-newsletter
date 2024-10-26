@@ -12,7 +12,7 @@ O objetivo deste projeto foi criar uma página estilizada com **Tailwind CSS**, 
 - **Alinhamento e Posicionamento**: Uso de classes para ajustar o layout de forma precisa e responsiva.
 
 ## ️Tecnologias Utilizadas
-- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) **Tailwind CSS**
+- <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="48" alt="Tailwind CSS" /> **Tailwind CSS**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML**
 - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) **VS Code**
 
